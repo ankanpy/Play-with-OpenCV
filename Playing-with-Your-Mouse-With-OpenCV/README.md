@@ -24,4 +24,11 @@ To run the opencv draw circle code, use this command:
 python draw-mouse.py
 ```
 
+### Run The App
+To run the streamlit app code, use this command: 
+
+```shell script
+python app.py
+```
+
 

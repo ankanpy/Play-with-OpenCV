@@ -1,4 +1,7 @@
-opencv-python
-numpy
-mediapipe
-pyautogui
+# 12/11/25
+mediapipe==0.10.21
+opencv-python==4.11.0.86
+PyAutoGUI==0.9.54
+streamlit==1.51.0
+streamlit-webrtc==0.63.11
+watchdog==6.0.0
